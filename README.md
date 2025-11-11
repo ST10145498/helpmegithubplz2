@@ -371,17 +371,20 @@ https://drive.google.com/file/d/1b2gEKzzudTshSqCrp3ZGowo6AJMXNK7B/view?usp=shari
 - Hart, Tim G. B., et al. "Innovation for Development in South Africa: Experiences with Basic Service Technologies in Distressed Municipalities." *Forum for Development Studies*, vol. 47, no. 1, 20 Aug. 2019, pp. 23-47.
 
 **Microsoft Documentation:**
-- Microsoft. (2025). WPF Overview. Retrieved from https://learn.microsoft.com/en-us/dotnet/desktop/wpf/overview/
-- Microsoft. (2025). IComparable<T> Interface. Retrieved from https://learn.microsoft.com/en-us/dotnet/api/system.icomparable-1
-- Microsoft. (2025). Static Classes and Static Class Members. Retrieved from https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/static-classes-and-static-class-members
+- Microsoft, 2025. WPF Overview. Available at: https://learn.microsoft.com/en-us/dotnet/desktop/wpf/overview/ [Accessed 12 November 2025].
+- Microsoft, 2025. IComparable<T> Interface. Available at: https://learn.microsoft.com/en-us/dotnet/api/system.icomparable-1 [Accessed 12 November 2025].
+- Microsoft, 2025. Static Classes and Static Class Members (C# Programming Guide). Available at: https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/static-classes-and-static-class-members [Accessed 12 November 2025].
 
 **Data Structures and Algorithms:**
-- GeeksforGeeks. (2025). Binary Search Tree Data Structure. Retrieved from https://www.geeksforgeeks.org/binary-search-tree-data-structure/
-- GeeksforGeeks. (2025). AVL Tree | Set 1 (Insertion). Retrieved from https://www.geeksforgeeks.org/avl-tree-set-1-insertion/
-- GeeksforGeeks. (2025). Heap Data Structure. Retrieved from https://www.geeksforgeeks.org/heap-data-structure/
-- GeeksforGeeks. (2025). Graph Data Structure And Algorithms. Retrieved from https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/
-- GeeksforGeeks. (2025). Prim's Minimum Spanning Tree (MST). Retrieved from https://www.geeksforgeeks.org/prims-minimum-spanning-tree-mst-greedy-algo-5/
-- Cormen, T. H., Leiserson, C. E., Rivest, R. L., & Stein, C. (2009). *Introduction to Algorithms* (3rd ed.). MIT Press.
+- GeeksforGeeks, 2025. Binary Search Tree | Set 1 (Search and Insertion). Available at: https://www.geeksforgeeks.org/binary-search-tree-set-1-search-and-insertion/ [Accessed 12 November 2025].
+- GeeksforGeeks, 2025. AVL Tree | Set 1 (Insertion). Available at: https://www.geeksforgeeks.org/avl-tree-set-1-insertion/ [Accessed 12 November 2025].
+- GeeksforGeeks, 2025. Heap Data Structure. Available at: https://www.geeksforgeeks.org/heap-data-structure/ [Accessed 12 November 2025].
+- GeeksforGeeks, 2025. Graph Data Structure And Algorithms. Available at: https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/ [Accessed 12 November 2025].
+- GeeksforGeeks, 2025. Prim's Minimum Spanning Tree (MST) | Greedy Algo-5. Available at: https://www.geeksforgeeks.org/prims-minimum-spanning-tree-mst-greedy-algo-5/ [Accessed 12 November 2025].
+- GeeksforGeeks, 2025. Linked List Data Structure. Available at: https://www.geeksforgeeks.org/data-structures/linked-list/ [Accessed 12 November 2025].
+- GeeksforGeeks, 2025. Queue Data Structure. Available at: https://www.geeksforgeeks.org/queue-data-structure/ [Accessed 12 November 2025].
+- GeeksforGeeks, 2025. Introduction to Dictionary Data Structure. Available at: https://www.geeksforgeeks.org/introduction-to-dictionary-data-structure/ [Accessed 12 November 2025].
+- GeeksforGeeks, 2025. Hashing Data Structure. Available at: https://www.geeksforgeeks.org/hashing-data-structure/ [Accessed 12 November 2025].
 
 ---
 
